@@ -1,6 +1,5 @@
 <?php
 /**
- * Created by Pangea Reality.
  * User: Luis Ernesto Assandri
  * Date: 09/10/2017
  * Time: 15:43
